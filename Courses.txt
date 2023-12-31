@@ -1,0 +1,5 @@
+CSCP1011 4 //Programming Fundamentals
+CSHU2833 3 //Logical Thinking
+CSCS2533 3 //Digital Logic Design
+CSHU1893 3 //Pakistan Studies
+CSSS1713 3 //Calculus 1
